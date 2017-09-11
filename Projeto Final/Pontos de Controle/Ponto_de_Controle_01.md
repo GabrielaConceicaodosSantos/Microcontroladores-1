@@ -1,8 +1,13 @@
-Micro e Micro - 2.2017
+Microprocessadores e Microcontroladores - 2.2017
 
 # Ponto de Controle 01
 
 ## Projeto de Automação com MSP430
+
+* **Alunos: **
+
+* **Arthur Evangelista dos Santos. - 14/0016686**
+* **Gabriela Conceição dos Santos. - 16/0152038**
 
 * **Justificativa**
     * O controle hídrico em lavouras, jardins residenciais e estufas tem papel fundamental nas finanças de uma empresa ou residência. Estima-se que boa parte dos gastos com água potável são devido a estas atividades. Em uma situação de crise hídrica como a atual e o preço da água se elevando a cada dia, uma empresa ou residência com controle de seus gastos hídricos obtém vantagem econômica expressiva.
